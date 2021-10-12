@@ -1,0 +1,23 @@
+
+site_name: OtoshanDev
+
+nav: 
+  - overview: index.md
+  - privacy: privacy-policy.md
+
+
+# ページのデザイン設定
+theme:
+  name: 'material'
+  favicon: './images/favicon.ico'
+  language: 'en'
+  logo: './images/locavena-logo.png'
+  palette:
+    primary: '--md-locavena-color'
+    accent: '--md-locavena-color'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
+
+copyright: Copyright©2020-2021 Otoshanapp. All Rights Reserved
