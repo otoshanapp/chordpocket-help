@@ -2,7 +2,6 @@
 site_name: OtoshanDev
 
 nav: 
-  - overview: index.md
   - privacy: privacy-policy.md
 
 
@@ -11,10 +10,9 @@ theme:
   name: 'material'
   favicon: './images/favicon.ico'
   language: 'en'
-  logo: './images/locavena-logo.png'
+  logo: './images/favicon.ico'
   palette:
-    primary: '--md-locavena-color'
-    accent: '--md-locavena-color'
+    primary: grey
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
